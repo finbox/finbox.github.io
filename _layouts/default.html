@@ -23,27 +23,14 @@
 
 <div class="site">
 
-  <div class="header">
-    <div class="gray-bar"></div>
-
-    <div class="nav">
-      <img src="/images/logo.png">
-
-      <ul>
-        <li><a href="#">Blog</a></li>
-        <li><a href="#">Archives</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Contact</a></li>
-    </div>
-  </div>
+  {% include header.html %}
   
   <div class="content">
     {{ content }}
   </div>
   
-  <div class="footer">
-    
-  </div>
+  {% include footer.html %}
+  
 </div>
 
 </body>

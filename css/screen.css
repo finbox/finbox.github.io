@@ -31,14 +31,14 @@ a {
 .rmargin {
   margin-right: 40px; }
 
+.rounded {
+  border-radius: 5px; }
+
 .header {
   width: 100%;
-  border-top: 5px solid #f34c0b; }
-  .header .gray-bar {
-    height: 20px;
-    background: url(/images/brushed.png); }
+  border-top: 2px solid #f34c0b; }
   .header .nav {
-    margin: 10px 50px; }
+    padding: 10px 50px 20px; }
     .header .nav img {
       margin-top: 20px;
       float: left;
@@ -71,8 +71,8 @@ a {
       color: #000; }
 
 .post {
-  margin: 60px auto;
-  max-width: 600px;
+  margin: 50px auto;
+  max-width: 650px;
   padding: 5px;
   font-size: 1.5em; }
   .post h1 {
@@ -86,6 +86,11 @@ a {
     .post h2.subtitle {
       margin-top: -10px;
       color: #666666; }
+  .post h3 {
+    margin-top: 40px;
+    font-family: "PT Sans Narrow";
+    font-size: 2.0em;
+    font-weight: 700; }
   .post a {
     color: #f34c0b; }
   .post p + p {
@@ -95,3 +100,48 @@ a {
     max-width: 100%;
     margin-left: auto;
     margin-right: auto; }
+  .post blockquote {
+    border-color: #f34c0b;
+    font-style: italic; }
+
+.grid {
+  width: 960px;
+  /*min-width:700px;*/
+  /*width:100%;*/
+  margin-left: auto;
+  margin-right: auto; }
+
+.inset {
+  padding: 10px;
+  background: url(/images/sos.png);
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc; }
+
+.featured h3 {
+  font-family: "PT Sans Narrow"; }
+.featured .card {
+  float: left;
+  width: 46%;
+  margin: 2% 4% 2% 0;
+  padding: 30px;
+  height: 450px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3); }
+  .featured .card:nth-child(odd) {
+    margin-right: 0; }
+  .featured .card .img-wrapper {
+    height: 170px;
+    overflow: hidden;
+    margin: -30px;
+    margin-bottom: 25px;
+    background: rgba(0, 0, 0, 0.1); }
+    .featured .card .img-wrapper img {
+      width: 100%;
+      margin-top: -20%; }
+  .featured .card h3 {
+    font-family: "PT Sans Narrow"; }
+  .featured .card:hover {
+    text-decoration: none;
+    color: #000; }
