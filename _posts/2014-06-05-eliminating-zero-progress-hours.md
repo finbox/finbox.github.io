@@ -9,13 +9,13 @@ image: http://31.media.tumblr.com/46230f3fb958daa21c01d53a7fdcb747/tumblr_n6rz3i
 # Eliminating <br>Zero-Progress Hours
 <h2 class="subtitle">Personal thoughts on becoming more productive</h2>
 
-I hate wasted time. I hate it even more when it occurs during time periods that I intentionally set aside to make progress. Usually the time suck sneaks up on me and before I know it, a particular task has taken me multiple hours when I know it should have only taken one.
+I hate wasted time. I hate it even more when it occurs during time periods that I intentionally set aside to make progress. Usually the time suck sneaks up on me and before I know it, a particular task has taken me multiple hours, when I know it should have only taken one.
 
-The following are suggestions I have employed in my own work to try and reduce the number of zero progress hours I log.
+The following are suggestions I have employed in my own work to try and reduce the number of zero-progress hours I log.
 
 ### Close your tabs.
 
-One of the methods of procrastination my subconscious employs is clicking through all of the tabs I have open. If I notice myself doing this, I immediately try to close as many as I can . Sometimes, however, I still have 4-5 tabs open with pages that I know I need to come back to. This is bad, because in essence, I turn my tabs into a todo list. And let’s be honest, tabs make for horrible todo lists because they distract you while you work on the current task. Instead of using your tabs as items to address later, put them in a task manager like Trello, or a save-for-later tool like Dragdis. That way they’re not visible until you’re ready to pick up the next task.
+One of the methods of procrastination my subconscious employs is clicking through all of the tabs I have open. If I notice myself doing this, I immediately try to close as many as I can. Sometimes, however, I still have 4-5 tabs open with pages that I know I need to come back to. This is bad, because in essence, I turn my tabs into a todo list. And let’s be honest, tabs make for horrible todo lists because they distract you while you work on the current task. Instead of using your tabs as items to address later, put them in a task manager like Trello, or a save-for-later tool like Dragdis. That way they’re not visible until you’re ready to pick up the next task.
 
 ### Set time constraints on tasks
 

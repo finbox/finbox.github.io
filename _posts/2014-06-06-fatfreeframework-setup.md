@@ -20,7 +20,7 @@ A few details about F3:
 
 ## Setting up your project
 
-First you'll want to [download](https://github.com/bcosca/fatfree/archive/master.zip){:target="_blank"} the framework files. Create a new directory for your site and unzip the framework there. Next you will want to create an *index.php* file. This will act as your routing file, but can also include additional functionality.
+First, you'll want to [download](https://github.com/bcosca/fatfree/archive/master.zip){:target="_blank"} the framework files. Create a new directory for your site and unzip the framework there. Next, you will want to create an *index.php* file. This will act as your routing file, but can also include additional functionality.
 
 ### Routing
 
@@ -40,18 +40,18 @@ Open up *index.php* and include the following lines:
     $f3->route('GET /', 'Controller->index');
 {:.language-php .line-numbers}
 
-Now fire up a local php server in the root of your project directory, and direct a browser to your TODO FIX THIS.
+Now fire up a local php server in the root of your project directory, and direct a browser to it. If you've done everything correctly you should see a page with "No magic here!".
 
-What I love about F3 is it is very clear what is happening. On line 12 we define the route "GET /" and point it to the index method inside of our Controller class.
+What I love about F3 is how easy it is to understand what is happening. On line 12 we define the route "GET /" and point it to the index method inside of our Controller class. That is why the page renders "No magic here!".
 
-Adding additional routes is as simple
+Adding additional routes is as simple.
 
     $f3->route('GET /job/@id', 'Controller->job');
     $f3->route('POST /job', 'Controller->createJob');
     $f3->route('DELETE /job/@id', 'Controller->deleteJob');
 {:.language-php }
 
-You'll notice that two of the routes have *@id*. F3 makes it really simple to grab parameters from the url. The folowing code shows how this is done. 
+You'll notice that two of the routes have *@id*. F3 makes it really simple to grab parameters from the url. The following code shows how this is done. 
 
     class Controller {
         function job($f3, $params) {
@@ -116,7 +116,7 @@ Queries can be made against the database as follows:
     echo View::instance()->render('abc.htm');
 {:.language-php }
 
-And parameterized queries automatically protect against any SQL injection 
+And parameterized queries automatically protect against any SQL injection.
 
     $db->exec('SELECT * FROM users WHERE userID=?', $id);
     //or
