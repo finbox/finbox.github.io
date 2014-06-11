@@ -2,7 +2,7 @@
 title: How to setup the Fat-Free Framework
 permalink: /fatfreeframework-setup/ 
 layout: post
-image: http://24.media.tumblr.com/57a652bfb91e06d3d1f596c0aa5f7871/tumblr_n2k120WsWM1st5lhmo1_1280.jpg
+image: /images/posts/seagull.jpg
 ---
 <img src="/images/posts/pig.png" class="rounded"> 
 

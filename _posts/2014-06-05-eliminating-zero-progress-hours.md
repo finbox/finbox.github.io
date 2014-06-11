@@ -2,7 +2,7 @@
 title: Eliminating Zero-Progress Hours | How to be more productive as a freelancer
 permalink: /eliminating-zero-progress-hours/ 
 layout: post
-image: http://31.media.tumblr.com/46230f3fb958daa21c01d53a7fdcb747/tumblr_n6rz3iGDUA1st5lhmo1_1280.jpg
+image: /images/posts/time.jpg 
 ---
 <img src="{{ page.image }}" class="rounded"> 
 

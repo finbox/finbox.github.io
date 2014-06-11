@@ -2,7 +2,7 @@
 title: You've got an ugly web page, but you want to build mine?
 permalink: /ugly-web-page/
 layout: post
-image: http://24.media.tumblr.com/c191202cf54249bf7149acf7054252d0/tumblr_myebvrTkci1st5lhmo1_1280.jpg
+image: /images/posts/ugly.jpg
 ---
 <img src="{{ page.image }}" class="rounded"> 
 
