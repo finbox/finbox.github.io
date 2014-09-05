@@ -58,7 +58,7 @@ That’s the Freelance Inbox way&mdash;and we hope you make it your way too.
 
 <div class="tweet">
     <h3 class="calign">Support us by following and retweeting</h3>
-    <blockquote class="twitter-tweet" lang="en"><p>Please RT - Know someone who needs <a href="https://twitter.com/hashtag/freelance?src=hash">#freelance</a> work done? Get a $100 Amazon Gift card for referring them to our site. <a href="http://t.co/ixTJgdtMcH">http://t.co/ixTJgdtMcH</a></p>&mdash; FreelanceInbox (@freelanceinbox) <a href="https://twitter.com/freelanceinbox/status/507338574229143552">September 4, 2014</a></blockquote>
+    <blockquote class="twitter-tweet" lang="en"><p>The Freelance Inbox Way is simplifying the process by which <a href="https://twitter.com/hashtag/freelancers?src=hash">#freelancers</a> and <a href="https://twitter.com/hashtag/clients?src=hash">#clients</a> come together. <a href="http://t.co/0FrWrMq60q">http://t.co/0FrWrMq60q</a></p>&mdash; FreelanceInbox (@freelanceinbox) <a href="https://twitter.com/freelanceinbox/status/507914792582283264">September 5, 2014</a></blockquote>
 </div>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
