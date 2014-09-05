@@ -144,7 +144,7 @@ Well, that’s it for now. Hopefully some of my tips above will help you stand o
 
 <div class="tweet">
     <h3 class="calign">Follow us on Twitter</h3>
-    <blockquote class="twitter-tweet" lang="en"><p>Please RT - Know someone who needs <a href="https://twitter.com/hashtag/freelance?src=hash">#freelance</a> work done? Get a $100 Amazon Gift card for referring them to our site. <a href="http://t.co/ixTJgdtMcH">http://t.co/ixTJgdtMcH</a></p>&mdash; FreelanceInbox (@freelanceinbox) <a href="https://twitter.com/freelanceinbox/status/507338574229143552">September 4, 2014</a></blockquote>
+    <blockquote class="twitter-tweet" lang="en"><p>Standing out as a <a href="https://twitter.com/hashtag/freelancer?src=hash">#freelancer</a>—it&#39;s easier than you think. <a href="http://t.co/kifd3UneFx">http://t.co/kifd3UneFx</a> <a href="https://twitter.com/hashtag/blogpost?src=hash">#blogpost</a> <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a></p>&mdash; FreelanceInbox (@freelanceinbox) <a href="https://twitter.com/freelanceinbox/status/507916417300439041">September 5, 2014</a></blockquote>
 </div>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
