@@ -143,7 +143,7 @@ Another tip is to specify where you are located. Something about saying, “I’
 Well, that’s it for now. Hopefully some of my tips above will help you stand out from the crowd. If you’re still spending your time searching for your own leads on the world wide web, <a href="https://freelanceinbox.com/#signup" target="_blank">please stop and let us help</a>. You have far more important things to be doing with your time, like perfecting your pitch and creating a solid portfolio.
 
 <div class="tweet">
-    <h3 class="calign">Follow us on Twitter</h3>
+    <h3 class="calign">Support us by following and retweeting</h3>
     <blockquote class="twitter-tweet" lang="en"><p>Standing out as a <a href="https://twitter.com/hashtag/freelancer?src=hash">#freelancer</a>—it&#39;s easier than you think. <a href="http://t.co/kifd3UneFx">http://t.co/kifd3UneFx</a> <a href="https://twitter.com/hashtag/blogpost?src=hash">#blogpost</a> <a href="https://twitter.com/hashtag/webdev?src=hash">#webdev</a></p>&mdash; FreelanceInbox (@freelanceinbox) <a href="https://twitter.com/freelanceinbox/status/507916417300439041">September 5, 2014</a></blockquote>
 </div>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
