@@ -140,5 +140,7 @@ Hopefully that gives you a brief introduction to the very powerful, but lightwei
     RewriteRule .* index.php [L,QSA]
 {:.language-php }
 
+{% include kesler_bio.html %}
+
 
 **Icons courtesy of <a href="http://icons8.com/" target="_blank">Visual Pharm</a>*

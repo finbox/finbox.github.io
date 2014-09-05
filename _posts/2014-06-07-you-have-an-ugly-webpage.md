@@ -29,8 +29,11 @@ That might be a little dramatic for what we’re talking about, but it illustrat
 
 ### YOU built this!?
 
-Last week one of my friends saw FreelanceInbox for the first time. We had been talking on and off about the idea for 30 minutes and he was moderately interested at best. That was until he pulled out his laptop and saw the site for the first time. His whole perspective changed. Based solely on one page, his perception of my skill level and professionalism had skyrocketed. It was almost comical how night and day it was. That’s the kind of experience you want to have with your clients.
+Last week one of my friends saw Freelance Inbox for the first time. We had been talking on and off about the idea for 30 minutes and he was moderately interested at best. That was until he pulled out his laptop and saw the site for the first time. His whole perspective changed. Based solely on one page, his perception of my skill level and professionalism had skyrocketed. It was almost comical how night and day it was. That’s the kind of experience you want to have with your clients.
 
+<!--
 ---
 
-In the coming weeks, I’m going to start analyzing some of the freelancer’s home pages I come across, the good and the bad. My hope is that if you follow along you can see what’s working for freelancers and what’s screaming amateur hour.
+In the coming weeks, I’m going to start analyzing some of the freelancer’s home pages I come across, the good and the bad. My hope is that if you follow along you can see what’s working for freelancers and what’s screaming amateur hour.-->
+
+{% include kesler_bio.html %}

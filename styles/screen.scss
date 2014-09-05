@@ -134,6 +134,33 @@ footer {
 		border-color:$orange;
 		font-style:italic;
 	}
+
+	.bio {
+		font-family:$ptSans;
+		margin:50px 0 50px 0;
+		height:80px;
+		background:rgba(0,0,0,.04);
+		border-top-left-radius:5px;
+		border-bottom-left-radius:5px;
+		overflow:hidden;
+		border: 1px solid rgba(0, 0, 0, 0.01);
+		img {
+			height:100%;
+			margin-right:20px;
+			float:left;
+		};
+		p {
+			margin-top:10px;
+		}
+	}
+
+	.tweet {
+		font-family:$ptSans;
+		iframe {
+			margin-left:auto !important;
+			margin-right:auto !important;
+		}
+	}
 }
 
 .grid {

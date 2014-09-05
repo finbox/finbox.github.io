@@ -46,3 +46,5 @@ There is a danger to be aware of in this tactic, however. If you’re subconscio
 ---
 
 Forty minutes have come and gone for me and now it’s time for a quick stretch, a movement of Trello cards and a new task. I hope you’ll find some of my tips helpful in your own elimination of zero-progress hours.
+
+{% include kesler_bio.html %}

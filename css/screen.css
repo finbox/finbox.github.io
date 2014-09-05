@@ -110,6 +110,26 @@ footer .copyright {
   .post blockquote {
     border-color: #f34c0b;
     font-style: italic; }
+  .post .bio {
+    font-family: "PT Sans Narrow";
+    margin: 50px 0 50px 0;
+    height: 80px;
+    background: rgba(0, 0, 0, 0.04);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    overflow: hidden;
+    border: 1px solid rgba(0, 0, 0, 0.01); }
+    .post .bio img {
+      height: 100%;
+      margin-right: 20px;
+      float: left; }
+    .post .bio p {
+      margin-top: 10px; }
+  .post .tweet {
+    font-family: "PT Sans Narrow"; }
+    .post .tweet iframe {
+      margin-left: auto !important;
+      margin-right: auto !important; }
 
 .grid {
   width: 960px;
