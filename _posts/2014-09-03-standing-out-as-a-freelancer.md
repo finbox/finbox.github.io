@@ -22,13 +22,13 @@ To perfect your pitch, you should first realize that the following errors immedi
 
 ### Broken links
 
-Yep… you listed a webpage and all I found was a 404 page. Maybe you misspelled it, and if I just looked at the link, I would figure it out. Unfortunately, I have plenty of other responses to consider and this poor first impression means you’re out.
+Yep… you listed a webpage and all I found was a 404 page. Maybe you misspelled it, and if I just looked at the link, I would figure it out. Unfortunately, I have plenty of other responses to consider, and this poor first impression means you’re out.
 
 ### Reader fatigue
 
 ![alt text](/images/posts/reader_fatigue.png "Huge block of text")
 
-Look at that response. Yes, there are probably a LOT of good words in there, but all I see is gigantic blocks of text. Immediately, my mind becomes lazy and if I even read your email&mdash;which I probably won’t&mdash;I do so grudgingly. 
+Look at that response. Yes, there are probably a LOT of good words in there, but all I see are gigantic blocks of text. Immediately, my mind becomes lazy and if I even read your email&mdash;which I probably won’t&mdash;I do so grudgingly. 
 
 Use of appropriate whitespace can go a long way in crafting your response. This too can be taken to an extreme if your email starts to grow too tall. The real lesson here is don’t try to cram so much into your email that it is discarded before it’s begun.
 
@@ -36,17 +36,17 @@ Taken to the opposite extreme, don’t send out a one-liner. Unless you have a p
 
 ![alt text](/images/posts/reader_fatigue_2.png "Short email")
 
-In short (but not too short *winky-face*), the length of your response should be tailored to the size and quality of job to which you are responding.
+In short (but not too short *winky-face*), the length of your response should be tailored to the size and quality of the job to which you are responding.
 
 ### Grammatical issues / Spelling errors 
 
-These type of errors suggest to me that you’re either lazy, careless, or English is not a strong suit. All three are warning flags, and enough to knock you from the top 5%.
+These types of errors suggest to me that you’re either lazy or careless, or English is not a strong suit. All three are warning flags and enough to knock you from the top 5%.
 
 ### FoRmatTing 
 
 Please… please, none of this. I was aghast at some of the formatting that I witnessed. Yes, you caught my attention, but the kind that sends my mouse racing for the trash can icon.
 
-Font should be uniform throughout your email (especially font-size) and choosing to emphasize portions by bolding should be done tastefully and sparingly. Links are normally blue, and it would take a strong argument to help me understand why you decided to turn them all sea-green.
+Font should be uniform throughout your email (especially font-size), and choosing to emphasize portions by bolding should be done tastefully and sparingly. Links are normally blue, and it would take a strong argument to help me understand why you decided to turn them all sea-green.
 
 Also, make sure when including links that they are formatted the same. The following is not OK.
 
@@ -55,7 +55,7 @@ Also, make sure when including links that they are formatted the same. The follo
 - http://www.third-example.com
 - wwww.fourth-example.com
 
-I have no insight on which is best, but I do know that sticking with one would be wise.
+It doesn’t matter which one you use as long as you are consistent.
 
 ### Non-relevant additions
 
@@ -67,15 +67,15 @@ You want to come across as sounding experienced, but there is a breaking point. 
 
 ### No link to portfolio or sample pages
 
-An applicant without a personal website always worries me. I’m sure the usefulness of a personal website is highly based on the type of freelance work you are seeking, but in my case, you were proposing to build me a website. Not having a personal website to refer me to makes me wonder how new to the game you are. Even if you included other websites as references, I still questioned.
+An applicant without a personal website always worries me. I’m sure the usefulness of a personal website is highly based on the type of freelance work you are seeking, but in my case, you were proposing to build me a website. Not having a personal website to refer me to made me wonder how new to the game you were. Even if you included other websites as references, I still questioned.
 
-That being said, some of you did have personal websites and they were unfortunately very unprofessional, which was as bad as not having one. This was probably the most discouraging part of the whole process. Finally, I would come across a pitch that was very well put together, only to be greeted by a poorly done website. I had to wonder why you thought I would pay you to design my website, when <a href="http://blog.freelanceinbox.com/ugly-web-page" target="_blank">your website was so ugly</a>.
+That being said, some of you did have personal websites and they were unfortunately very unprofessional, which was as bad as not having one. This was probably the most discouraging part of the whole process. Finally, I would come across a pitch that was very well put together, only to be greeted by a poorly done website. I had to wonder why you thought I would pay you to design my website when your <a href="http://blog.freelanceinbox.com/ugly-web-page" target="_blank">your website was so ugly</a>.
 
-A final thought on the links you share. Some emails contained upwards of 10 websites for me to check out. When I checked them out, I was surprised to find that some of them were really well done, while others were not. Unfortunately, due to the lesser quality sites, I eliminated you from my potential hire pool. My suggestion here is that instead of sending 10 sites, you only include 3–4 of your best work. Should you want to show off the rest of your work, your personal website would do a better job than the email. Quality vs. quantity is the key here.
+A final thought on the links you shared. Some emails contained upwards of 10 websites for me to check out. When I checked them out, I was surprised to find that some of them were really well done, while others were not. Unfortunately, due to the lesser quality sites, I eliminated you from my potential hire pool. My suggestion here is that instead of sending 10 sites, you only include 3–4 of your best work. Should you want to show off the rest of your work, your personal website would do a better job than the email. Quality vs. quantity is the key here.
 
 ### Attached portfolio
 
-“It’s the 21st century, when are you going to learn to sit down.” Oh wait, that’s a <a href="http://www.juliansmith.tv/2014/07/wifi/" target="_blank">Julian Smith quote</a>. But if you’ve seen the video, (and I’d endorse taking 3 minutes to watch it), you understand that attaching your pdf portfolio when I’m requesting a website isn’t the best approach.
+“It’s the 21st century&mdash;when are you going to learn to sit down.” Oh wait, that’s a <a href="http://www.juliansmith.tv/2014/07/wifi/" target="_blank">Julian Smith quote</a>. But if you’ve seen the video, (and I’d endorse taking 3 minutes to watch it), you understand that attaching your pdf portfolio when I’m requesting a website isn’t the best approach.
 
 ---
 
@@ -101,19 +101,19 @@ Now take a look at this response:
 
 > “Most small business websites can be developed in about a week depending on page number and complexity. As we hash out details later I can give you a more concrete timeline.”
 
-Sure, with a response like this the freelancer temporarily foregoes all of the nitty gritty details they will eventually need. However, at this point, you have to focus on simplifying life for the client, so that you can actually get to the second step.
+Sure, with a response like this the freelancer temporarily foregoes all of the nitty gritty details he will eventually need. However, at this point, you have to focus on simplifying life for the client so that you can actually get to the second step.
 
 This is just one example, but watch for other areas in your response where you are asking the client to do premature work. Figure out what information you can live without in your response and turn it in your favor.
 
 ### Make it personal, cordial and friendly 
 
-This could be done a thousand different ways but it begins with your salutation and ends with your name.
+This could be done a thousand different ways, but it begins with your salutation and ends with your name.
 
 Adding some humor to your email is a gamble, but if you succeed, it is also a breath of fresh air. If you can make me smile but still come across as professional, you’re going to make the first round of cuts. Most people like to work with someone who is easy-going and has a sense of humor. They don’t want a goofball, though, so find a balance. They need a professional they can rely on, but if you can come across as fun to work with and professional, you’re golden.
 
 ### Timeline 
 
-Providing a timeline is not always appropriate, and is highly dependent on the client’s initial post. In my case, my post made it clear that I didn’t know a whole lot about web development. I found that the few developers who provided a timeline helped me understand what I could expect throughout the whole process. They also didn’t attach dates to make me feel pressured.
+Providing a timeline is not always appropriate and is highly dependent on the client’s initial post. In my case, my post made it clear that I didn’t know a whole lot about web development. I found that the few developers who provided a timeline helped me understand what I could expect throughout the whole process. They also didn’t attach dates to make me feel pressured.
 
 The outline went something like this:
 
@@ -134,13 +134,13 @@ The opening pitch is not a time for hesitancy. If you get a response from the cl
 
 ### Contact information 
 
-Nothing fancy here, just make sure I have a good easy way of contacting you. This seems like a no-brainer, but unfortunately it was a common mistake. I found that those freelancers that included their phone number in the pitch, came across as far more personal than those who only had it in their signature. 
+Nothing fancy here, just make sure I have a good easy way of contacting you. This seems like a no-brainer, but unfortunately it was a common mistake. I found that those freelancers that included their phone number in the pitch came across as far more personal than those who only had it in their signature. 
 
-Another tip is to specify where you are located. Something about saying, “I’m currently located in Boston” helped me establish an immediate connection with that person. I’m not even from Boston; it’s just that their specifying their location changed them from an elusive being existing somewhere out there in the internets, to an actual person fighting the cold winters in Boston.
+Another tip is to specify where you are located. Something about saying, “I’m currently located in Boston” helped me establish an immediate connection with that person. I’m not even from Boston; it’s just that their specifying their location changed them from an elusive being existing somewhere out there in the internets to an actual person fighting the cold winters in Boston.
 
 ---
 
-Well, that’s it for now. Hopefully some of my tips above will help you stand out from the crowd. If you’re still spending your time searching for your own leads on the world wide web, <a href="https://freelanceinbox.com/#signup" target="_blank">please stop and let us help</a>. You have far more important things to be doing with your time, like perfecting your pitch and creating a solid portfolio.
+Your ability to stand out is a lot easier than you think, and following these tips will get you well on your way toward landing your next gig. If you’re still spending your time searching for your own leads on the world wide web, <a href="https://freelanceinbox.com/#signup" target="_blank">please stop and let us help</a>. You have far more important things to be doing with your time, like perfecting your pitch and creating a solid portfolio.
 
 <div class="tweet">
     <h3 class="calign">Support us by following and retweeting</h3>
