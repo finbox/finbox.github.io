@@ -2,16 +2,25 @@ body {
   padding: 0;
   margin: 0;
   font-size: 14px;
-  font-family: 'Cardo', serif; }
+  font-family: 'Lato', sans-serif;
+  color: #211D4A; }
 
 a {
   color: #000; }
+  a:hover {
+    text-decoration: none; }
 
 .t-orange {
-  color: #f34c0b; }
+  color: #F26653; }
 
 .t-gray {
-  color: #666666; }
+  color: #75738E; }
+
+.t-white {
+  color: #fff; }
+
+.t-shadow {
+  text-shadow: 0 1px 2px #75738E; }
 
 .calign {
   text-align: center; }
@@ -36,7 +45,7 @@ a {
 
 .header {
   width: 100%;
-  border-top: 2px solid #f34c0b; }
+  border-top: 2px solid #F26653; }
   .header .nav {
     padding: 10px 50px 20px; }
     .header .nav img {
@@ -52,10 +61,10 @@ a {
         margin-left: 20px;
         display: inline-block; }
         .header .nav ul li a {
-          color: #666666;
-          font-size: 1em;
-          font-family: "PT Sans Narrow";
-          text-transform: uppercase; }
+          color: #211D4A;
+          font-size: 1em; }
+          .header .nav ul li a:hover {
+            color: #F26653; }
 
 footer p {
   font-size: 1.5em; }
@@ -67,7 +76,6 @@ footer .copyright {
 	height: 150px;
 	background:url(/images/brushed.png);
 	padding:40px;
-	font-family: $ptSans;
 	a {
 		transition: all .5s;
 		-webkit-transition: all .5s;
@@ -83,23 +91,20 @@ footer .copyright {
   padding: 5px;
   font-size: 1.5em; }
   .post h1 {
-    font-family: "PT Sans Narrow";
-    font-size: 3.5em;
+    font-size: 3.0em;
     font-weight: 700; }
   .post h2 {
     margin-top: 40px;
-    font-family: "PT Sans Narrow";
     font-size: 2.5em; }
     .post h2.subtitle {
       margin-top: -10px;
-      color: #666666; }
+      color: #75738E; }
   .post h3 {
     margin-top: 40px;
-    font-family: "PT Sans Narrow";
     font-size: 2.0em;
     font-weight: 700; }
   .post a {
-    color: #f34c0b; }
+    color: #F26653; }
   .post p + p {
     margin-top: 40px; }
   .post img {
@@ -108,10 +113,9 @@ footer .copyright {
     margin-left: auto;
     margin-right: auto; }
   .post blockquote {
-    border-color: #f34c0b;
+    border-color: #F26653;
     font-style: italic; }
   .post .bio {
-    font-family: "PT Sans Narrow";
     margin: 50px 0 50px 0;
     height: 80px;
     background: rgba(0, 0, 0, 0.04);
@@ -125,27 +129,21 @@ footer .copyright {
       float: left; }
     .post .bio p {
       margin-top: 10px; }
-  .post .tweet {
-    font-family: "PT Sans Narrow"; }
-    .post .tweet iframe {
-      margin-left: auto !important;
-      margin-right: auto !important; }
+  .post .tweet iframe {
+    margin-left: auto !important;
+    margin-right: auto !important; }
 
 .grid {
   width: 960px;
-  /*min-width:700px;*/
-  /*width:100%;*/
   margin-left: auto;
   margin-right: auto; }
 
 .inset {
   padding: 10px;
-  background: url(/images/sos.png);
-  border-top: 1px solid #ccc;
-  border-bottom: 1px solid #ccc; }
+  background: url(/images/sos_dark.png);
+  border-top: 1px solid #75738E;
+  border-bottom: 1px solid #75738E; }
 
-.featured h3 {
-  font-family: "PT Sans Narrow"; }
 .featured .card {
   float: left;
   width: 48%;
@@ -153,7 +151,7 @@ footer .copyright {
   padding: 30px;
   height: 450px;
   overflow: hidden;
-  background: #fff;
+  background: rgba(255, 255, 255, 0.8);
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
   -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3); }
   .featured .card:nth-child(odd) {
@@ -167,8 +165,6 @@ footer .copyright {
     .featured .card .img-wrapper img {
       width: 100%;
       margin-top: -20%; }
-  .featured .card h3 {
-    font-family: "PT Sans Narrow"; }
   .featured .card:hover {
     text-decoration: none;
     color: #000; }
