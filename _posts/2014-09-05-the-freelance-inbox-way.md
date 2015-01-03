@@ -52,7 +52,7 @@ The Freelance Inbox way is a little different. We think the project you bring to
 
 ### The union 
 
-We’re looking to create a win-win. We’re not greedy; not looking for this community to make us rich and famous. Instead we’re looking to simplify the process by which quality freelancers and legitimate clients come together. 
+We’re working to create a win-win solution, a solution where a district of the freelance world has been saved of soul-sucking altogether and freelancing has lived up to its promise to be a better alternative for freelancers and clients.
 
 That’s the Freelance Inbox way&mdash;and we hope you make it your way too.
 
